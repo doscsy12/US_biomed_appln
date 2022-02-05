@@ -4,7 +4,7 @@ Ultrasonic waves have been recognised as valuable tools in non-destructive testi
 
 | script                 | description                                  |
 |------------------------|----------------------------------------------|
-| us_signal              | Processing ultrasound signal   |
+| us_process              | Processing ultrasound signal   |
 | us_transform           | Transforming ultrasound signal using fft/wavelet transform |
 
 
